@@ -1,0 +1,7 @@
+{
+  "name": "GreenCap AI V3 - Diamond Edition",
+  "description": "An AI-powered app to automatically transcribe videos in Egyptian Arabic and generate a green-screen video with synchronized, customizable captions. Users can also export an SRT file.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
